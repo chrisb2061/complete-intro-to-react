@@ -27,6 +27,10 @@ module.exports = {
       {
         test: /\.jsx?$/,
         loader: 'babel-loader'
+      },
+      {
+        test:/\.json$/,
+        loaders: 'json-loader'
       }
     ]
   }
