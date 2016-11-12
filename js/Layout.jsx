@@ -14,4 +14,3 @@ Layout.propTypes = {
 }
 
 module.exports = Layout
-
